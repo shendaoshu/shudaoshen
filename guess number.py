@@ -1,4 +1,4 @@
-one.py
+#guess number.py
 
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
